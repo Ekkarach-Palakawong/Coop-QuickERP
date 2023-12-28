@@ -1,0 +1,2 @@
+2.Qoot_STL.stl filter=lfs diff=lfs merge=lfs -text
+2.Qoot_obj.obj filter=lfs diff=lfs merge=lfs -text
